@@ -1,4 +1,3 @@
-﻿# BooksAppMockApi
 # Books App (Mock API)
 
 A simple and clean Android app showcasing a list of books using a mock API. This app is designed for prototyping, UI testing, and architecture demonstrations without relying on a real backend.
